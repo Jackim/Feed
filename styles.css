@@ -1,0 +1,36 @@
+@import url(https://fonts.googleapis.com/css?family=Vollkorn:400,400italic);
+
+* {
+	font-family: 'Vollkorn', serif;
+}
+
+body {
+	background-color: #fefefe;
+	margin: 0;
+}
+
+#feed {
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 10px 15px;
+	background-color: #f0f0f0;
+}
+
+a {
+	color: #2d4286;
+}
+
+a:hover {
+	color: #506fd3;
+}
+
+strong {
+	font-size: 17pt;
+}
+
+::selection {
+  background: #c0f6f7; 
+}
+::-moz-selection {
+  background: #c0f6f7; 
+}
